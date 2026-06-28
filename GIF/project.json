@@ -1,0 +1,713 @@
+{
+	"approved" : true,
+	"contentrating" : "Everyone",
+	"description" : "我的主页：https://space.bilibili.com/355133767\n制作：熠烛\n原画：是扶苏吖",
+	"file" : "scene.json",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"_0000000000000000000000000000" : 
+			{
+				"index" : 3,
+				"order" : 103,
+				"text" : "<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -🔻原画作者🔻-</h3>",
+				"type" : "text",
+				"value" : ""
+			},
+			"_1111111111111111" : 
+			{
+				"index" : 61,
+				"order" : 161,
+				"text" : "<center><img src='https://m.qpic.cn/psc?/V12uhwIt3z28yp/bqQfVz5yrrGYSXMvKr.cqRfWhZM.PfmzzkA3vu*mXxJeK7cF6qmhcHl8a9JBo069aKQKE1OoPKdXGLhQYgVKnbghSvDECASU6KJYnr0Mjdg!/b&amp;bo=HgECAAAAAAACFy4!&amp;rf=viewer_4'></a><h3>- 感谢&出处 -</h3><br><h4><a href = 'https://space.bilibili.com/279406515?spm_id_from=333.337.search-card.all.click'>-夜莺Night</a><br><br><a href = 'https://space.bilibili.com/1344099355?spm_id_from=333.337.0.0'>略nd</a><br><br>- 🎶 -<br><br><a href = 'https://space.bilibili.com/651386960?spm_id_from=333.788.0.0'>浅影阿_</a><br><br><a href = 'https://space.bilibili.com/2988419?spm_id_from=333.337.0.0'>雪澈Lin</a><br><br></center>",
+				"type" : "text",
+				"value" : ""
+			},
+			"_1111111111111111122" : 
+			{
+				"index" : 62,
+				"order" : 162,
+				"text" : "<img src='https://m.qpic.cn/psc?/V12uhwIt3z28yp/bqQfVz5yrrGYSXMvKr.cqbDiE.KukmsItmGSEqzsPMASzzlZBBlgG3mW8u*r6SMbHE.HaDfBmEWWIBvlOepEv9FPCoAJWj7wI3Bh4teGSaA!/b&bo=HgEIAAAAAAACJxQ!&rf=viewer_4'><center>",
+				"type" : "text",
+				"value" : ""
+			},
+			"br" : 
+			{
+				"index" : 0,
+				"order" : 100,
+				"text" : "<center><h4>🔻😻自定义壁纸功能请下划😻🔻</h4><br>Please scroll down for the custom 🔻wallpaper feature🔻</center>",
+				"type" : "text",
+				"value" : ""
+			},
+			"brbr" : 
+			{
+				"index" : 12,
+				"order" : 112,
+				"text" : "龙 背景阴影开关<br>Loong Background Shadow Switch<br><br>",
+				"type" : "bool",
+				"value" : true
+			},
+			"brkatanachecktodisplay" : 
+			{
+				"index" : 13,
+				"order" : 113,
+				"text" : "武士刀 勾选显示<br>katana Check to display<br><br>",
+				"type" : "bool",
+				"value" : true
+			},
+			"brloongchecktodisplaybrbr" : 
+			{
+				"index" : 10,
+				"order" : 110,
+				"text" : "龙 勾选显示<br>Loong Check to display<br><br>",
+				"type" : "bool",
+				"value" : true
+			},
+			"brwyvernanimationonoff" : 
+			{
+				"fraction" : true,
+				"index" : 11,
+				"max" : 1,
+				"min" : 0,
+				"order" : 111,
+				"precision" : 2,
+				"step" : 0.1,
+				"text" : "飞龙动画 （最小值为0时关闭）<br>Loong animation (Turns off when the minimum value is 0)<br><br>",
+				"type" : "slider",
+				"value" : 1
+			},
+			"bug" : 
+			{
+				"index" : 43,
+				"order" : 143,
+				"text" : "⚠️音频条若出现背景细线bug<br>在此关闭<br>If there is a thin line in the <br>background of the audio bar, <br>the bug is closed here<br><br>",
+				"type" : "bool",
+				"value" : true
+			},
+			"center" : 
+			{
+				"index" : 57,
+				"order" : 157,
+				"text" : "04",
+				"type" : "textinput",
+				"value" : "风铃 - 雪澈Lin"
+			},
+			"center1" : 
+			{
+				"index" : 56,
+				"order" : 156,
+				"text" : "03",
+				"type" : "textinput",
+				"value" : "花曇り - 佐藤千亜妃"
+			},
+			"center2" : 
+			{
+				"index" : 55,
+				"order" : 155,
+				"text" : "02",
+				"type" : "textinput",
+				"value" : "浮光 (The History) - Jannik"
+			},
+			"center3" : 
+			{
+				"index" : 54,
+				"order" : 154,
+				"text" : "01",
+				"type" : "textinput",
+				"value" : "三国恋-浅影阿_"
+			},
+			"centerh3musich3br" : 
+			{
+				"index" : 53,
+				"order" : 153,
+				"text" : "<h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔻Music🔻</h4></center>",
+				"type" : "text",
+				"value" : ""
+			},
+			"fengefu000" : 
+			{
+				"index" : 20,
+				"order" : 120,
+				"text" : "<img src='https://m.qpic.cn/psc?/V12uhwIt3z28yp/bqQfVz5yrrGYSXMvKr.cqRfWhZM.PfmzzkA3vu*mXxJeK7cF6qmhcHl8a9JBo069aKQKE1OoPKdXGLhQYgVKnbghSvDECASU6KJYnr0Mjdg!/b&amp;bo=HgECAAAAAAACFy4!&amp;rf=viewer_4'></a></center>",
+				"type" : "text",
+				"value" : ""
+			},
+			"fengefu002" : 
+			{
+				"index" : 44,
+				"order" : 144,
+				"text" : "<img src='https://m.qpic.cn/psc?/V12uhwIt3z28yp/bqQfVz5yrrGYSXMvKr.cqRfWhZM.PfmzzkA3vu*mXxJeK7cF6qmhcHl8a9JBo069aKQKE1OoPKdXGLhQYgVKnbghSvDECASU6KJYnr0Mjdg!/b&amp;bo=HgECAAAAAAACFy4!&amp;rf=viewer_4'></a></center>",
+				"type" : "text",
+				"value" : ""
+			},
+			"fengefu003" : 
+			{
+				"index" : 52,
+				"order" : 152,
+				"text" : "<img src='https://m.qpic.cn/psc?/V12uhwIt3z28yp/bqQfVz5yrrGYSXMvKr.cqRfWhZM.PfmzzkA3vu*mXxJeK7cF6qmhcHl8a9JBo069aKQKE1OoPKdXGLhQYgVKnbghSvDECASU6KJYnr0Mjdg!/b&amp;bo=HgECAAAAAAACFy4!&amp;rf=viewer_4'></a></center>",
+				"type" : "text",
+				"value" : ""
+			},
+			"fengefu004" : 
+			{
+				"index" : 58,
+				"order" : 158,
+				"text" : "<img src='https://m.qpic.cn/psc?/V12uhwIt3z28yp/bqQfVz5yrrGYSXMvKr.cqRfWhZM.PfmzzkA3vu*mXxJeK7cF6qmhcHl8a9JBo069aKQKE1OoPKdXGLhQYgVKnbghSvDECASU6KJYnr0Mjdg!/b&amp;bo=HgECAAAAAAACFy4!&amp;rf=viewer_4'></a></center>",
+				"type" : "text",
+				"value" : ""
+			},
+			"fenggefu001" : 
+			{
+				"index" : 27,
+				"order" : 127,
+				"text" : "<img src='https://m.qpic.cn/psc?/V12uhwIt3z28yp/bqQfVz5yrrGYSXMvKr.cqRfWhZM.PfmzzkA3vu*mXxJeK7cF6qmhcHl8a9JBo069aKQKE1OoPKdXGLhQYgVKnbghSvDECASU6KJYnr0Mjdg!/b&amp;bo=HgECAAAAAAACFy4!&amp;rf=viewer_4'></a></center>",
+				"type" : "text",
+				"value" : ""
+			},
+			"logo1" : 
+			{
+				"index" : 2,
+				"order" : 102,
+				"text" : "<a href = 'https://space.bilibili.com/355133767'></center></center><img src='https://i0.hdslb.com/bfs/new_dyn/f18bc2a16b5a71407c9a5034879c2b663546602440493866.png@1048w_!web-dynamic.avif'></a></center>",
+				"type" : "text",
+				"value" : ""
+			},
+			"logo2" : 
+			{
+				"index" : 4,
+				"order" : 104,
+				"text" : "<a href = 'https://www.douyin.com/user/MS4wLjABAAAA4mYNitBvUNqawrOP9NvC_Aa9qpT7YtXIRXRkWFy4cMTh91hMD9EAED-GiLnI6vwz'></center></center><img src='https://i0.hdslb.com/bfs/new_dyn/01d5cc17197bb77360eec3824a6106a43546602440493866.png@1048w_!web-dynamic.avif'></a></center><img src='https://m.qpic.cn/psc?/V12uhwIt3z28yp/bqQfVz5yrrGYSXMvKr.cqbDiE.KukmsItmGSEqzsPMASzzlZBBlgG3mW8u*r6SMbHE.HaDfBmEWWIBvlOepEv9FPCoAJWj7wI3Bh4teGSaA!/b&bo=HgEIAAAAAAACJxQ!&rf=viewer_4'><center>",
+				"type" : "text",
+				"value" : ""
+			},
+			"newproperty" : 
+			{
+				"index" : 22,
+				"options" : 
+				[
+					{
+						"label" : "关闭/off",
+						"value" : "0"
+					},
+					{
+						"label" : "01",
+						"value" : "1"
+					},
+					{
+						"label" : "02",
+						"value" : "2"
+					},
+					{
+						"label" : "03",
+						"value" : "3"
+					},
+					{
+						"label" : "04",
+						"value" : "4"
+					},
+					{
+						"label" : "05",
+						"value" : "5"
+					},
+					{
+						"label" : "06",
+						"value" : "6"
+					},
+					{
+						"label" : "07",
+						"value" : "7"
+					},
+					{
+						"label" : "08",
+						"value" : "8"
+					}
+				],
+				"order" : 122,
+				"text" : "右下角时间/样式<br>Time/style bottom right corner<br><br>",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"newproperty1" : 
+			{
+				"index" : 45,
+				"order" : 145,
+				"text" : "<h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔻自定义文字🔻</h4>",
+				"type" : "text",
+				"value" : ""
+			},
+			"newproperty10" : 
+			{
+				"index" : 33,
+				"order" : 133,
+				"text" : "🔘音频可视化（身体）<br>Audio Visualization (Body)<br><br>",
+				"type" : "bool",
+				"value" : false
+			},
+			"newproperty11" : 
+			{
+				"index" : 29,
+				"order" : 129,
+				"text" : "🔘音频可视化（背景中部）🔽<br>Audio visualization (middle background)<br><br>",
+				"type" : "bool",
+				"value" : true
+			},
+			"newproperty12" : 
+			{
+				"index" : 34,
+				"order" : 134,
+				"text" : "🔘音频可视化（背景下方）🔽<br>Audio visualization (above background)<br><br>",
+				"type" : "bool",
+				"value" : false
+			},
+			"newproperty13" : 
+			{
+				"fraction" : true,
+				"index" : 35,
+				"max" : 50,
+				"min" : 0,
+				"order" : 135,
+				"precision" : 2,
+				"step" : 0.1,
+				"text" : "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h6>音频条数<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Number of <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;audio records<br><br>",
+				"type" : "slider",
+				"value" : 20
+			},
+			"newproperty14" : 
+			{
+				"fraction" : true,
+				"index" : 36,
+				"max" : 1,
+				"min" : 0,
+				"order" : 136,
+				"precision" : 2,
+				"step" : 0.1,
+				"text" : "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h6>粗细<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thickness<br><br>",
+				"type" : "slider",
+				"value" : 0.58
+			},
+			"newproperty15" : 
+			{
+				"fraction" : true,
+				"index" : 37,
+				"max" : 1,
+				"min" : -1,
+				"order" : 137,
+				"precision" : 2,
+				"step" : 0.1,
+				"text" : "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h6>长短 上<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Length (top)<br><br>",
+				"type" : "slider",
+				"value" : 0
+			},
+			"newproperty16" : 
+			{
+				"fraction" : true,
+				"index" : 39,
+				"max" : 2,
+				"min" : -1,
+				"order" : 139,
+				"precision" : 2,
+				"step" : 0.1,
+				"text" : "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h6>镂空 上<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cutout (top)<br><br>",
+				"type" : "slider",
+				"value" : 1
+			},
+			"newproperty17" : 
+			{
+				"fraction" : true,
+				"index" : 38,
+				"max" : 2,
+				"min" : -1,
+				"order" : 138,
+				"precision" : 2,
+				"step" : 0.1,
+				"text" : "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h6>长短 下<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Length (Down)<br><br>",
+				"type" : "slider",
+				"value" : 1
+			},
+			"newproperty18" : 
+			{
+				"fraction" : true,
+				"index" : 40,
+				"max" : 2,
+				"min" : 0,
+				"order" : 140,
+				"precision" : 2,
+				"step" : 0.1,
+				"text" : "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h6>镂空 下<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cutout (down)<br><br>",
+				"type" : "slider",
+				"value" : 1
+			},
+			"newproperty19" : 
+			{
+				"index" : 42,
+				"order" : 142,
+				"text" : "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h6>颜色 下<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;color (down)<br><br>",
+				"type" : "color",
+				"value" : "0.3764705882352941 0.25882352941176473 0.49411764705882355"
+			},
+			"newproperty2" : 
+			{
+				"index" : 24,
+				"order" : 124,
+				"text" : "时间颜色<br>Time color<br><br>",
+				"type" : "color",
+				"value" : "0.8823529411764706 0.4745098039215686 0.7450980392156863"
+			},
+			"newproperty20" : 
+			{
+				"index" : 41,
+				"order" : 141,
+				"text" : "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h6>颜色 上<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;color (top)<br><br>",
+				"type" : "color",
+				"value" : "0.8313725490196079 0.5647058823529412 0.7098039215686275"
+			},
+			"newproperty21" : 
+			{
+				"index" : 15,
+				"order" : 115,
+				"text" : "眼焰<br>Flame in the eye<br><br>",
+				"type" : "bool",
+				"value" : false
+			},
+			"newproperty22" : 
+			{
+				"index" : 31,
+				"order" : 131,
+				"text" : "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h6>颜色 下<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;color (down)<br><br>",
+				"type" : "color",
+				"value" : "0.7176470588235294 0.5647058823529412 0.8313725490196079"
+			},
+			"newproperty23" : 
+			{
+				"index" : 30,
+				"order" : 130,
+				"text" : "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h6>颜色 上<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;color (top) <br><br>",
+				"type" : "color",
+				"value" : "1 0.5725490196078431 0.6862745098039216"
+			},
+			"newproperty24" : 
+			{
+				"index" : 19,
+				"order" : 119,
+				"text" : "樱花<br>cherry blossom<br><br>",
+				"type" : "bool",
+				"value" : true
+			},
+			"newproperty25" : 
+			{
+				"fraction" : true,
+				"index" : 49,
+				"max" : 70,
+				"min" : 0,
+				"order" : 149,
+				"precision" : 2,
+				"step" : 0.1,
+				"text" : "字体大小<br>Font size<br><br>",
+				"type" : "slider",
+				"value" : 40
+			},
+			"newproperty26" : 
+			{
+				"index" : 48,
+				"order" : 148,
+				"text" : "字体颜色<br>Font color<br><br>",
+				"type" : "color",
+				"value" : "0.596078431372549 0.27450980392156865 0.47058823529411764"
+			},
+			"newproperty27" : 
+			{
+				"index" : 47,
+				"order" : 147,
+				"text" : "自定义文字<br>Custom text<br><br>",
+				"type" : "textinput",
+				"value" : "BiliBIli：熠烛丶"
+			},
+			"newproperty28" : 
+			{
+				"fraction" : true,
+				"index" : 50,
+				"max" : 4,
+				"min" : -4,
+				"order" : 150,
+				"precision" : 2,
+				"step" : 0.1,
+				"text" : "字体深度<br>Font depth<br><br>",
+				"type" : "slider",
+				"value" : 1
+			},
+			"newproperty29" : 
+			{
+				"index" : 46,
+				"order" : 146,
+				"text" : "开启自定义文字<br>Turn on custom text<br><br>",
+				"type" : "bool",
+				"value" : false
+			},
+			"newproperty3" : 
+			{
+				"index" : 23,
+				"options" : 
+				[
+					{
+						"label" : "关闭/off",
+						"value" : "0"
+					},
+					{
+						"label" : "时间01",
+						"value" : "1"
+					},
+					{
+						"label" : "时间02",
+						"value" : "2"
+					},
+					{
+						"label" : "时间03",
+						"value" : "3"
+					},
+					{
+						"label" : "时间04",
+						"value" : "4"
+					},
+					{
+						"label" : "时间05",
+						"value" : "5"
+					},
+					{
+						"label" : "时间06",
+						"value" : "6"
+					},
+					{
+						"label" : "时间07",
+						"value" : "7"
+					},
+					{
+						"label" : "时间08",
+						"value" : "8"
+					}
+				],
+				"order" : 123,
+				"text" : "左上角时间/样式<br>Time/Style upper left corner<br><br>",
+				"type" : "combo",
+				"value" : "0"
+			},
+			"newproperty30" : 
+			{
+				"index" : 51,
+				"order" : 151,
+				"text" : "双击文字可开/关拖拽<br>Double-click the text <br>to turn it on/off drag it.<br><br>",
+				"type" : "bool",
+				"value" : true
+			},
+			"newproperty31" : 
+			{
+				"index" : 5,
+				"order" : 105,
+				"text" : "<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-🔻高度自定义🔻-</h3><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- &nbsp; Highly customizable &nbsp; -",
+				"type" : "text",
+				"value" : ""
+			},
+			"newproperty32" : 
+			{
+				"index" : 21,
+				"order" : 121,
+				"text" : "<h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔻自定义时间🔻</h4><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- &nbsp; Custom time &nbsp; -<br><br>",
+				"type" : "text",
+				"value" : ""
+			},
+			"newproperty33" : 
+			{
+				"index" : 28,
+				"order" : 128,
+				"text" : "<h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔻自定义音频可视化🔻</h4><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- &nbsp; Customize audio visualizations &nbsp; -<br><br>",
+				"type" : "text",
+				"value" : ""
+			},
+			"newproperty34" : 
+			{
+				"index" : 6,
+				"order" : 106,
+				"text" : "<br><h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔻基本设置🔻</h4><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- &nbsp; Basic settings &nbsp; -<br><br>",
+				"type" : "text",
+				"value" : ""
+			},
+			"newproperty35" : 
+			{
+				"index" : 63,
+				"order" : 163,
+				"text" : "<h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚠️若占用过大请降低纹理流⚠️</h5>",
+				"type" : "text",
+				"value" : ""
+			},
+			"newproperty36" : 
+			{
+				"index" : 7,
+				"options" : 
+				[
+					{
+						"label" : "00：默认",
+						"value" : "0"
+					},
+					{
+						"label" : "01：紫",
+						"value" : "1"
+					},
+					{
+						"label" : "02：粉",
+						"value" : "2"
+					},
+					{
+						"label" : "03：蓝",
+						"value" : "3"
+					},
+					{
+						"label" : "04：青",
+						"value" : "4"
+					}
+				],
+				"order" : 107,
+				"text" : "更多背景<br>More context<br><br>",
+				"type" : "combo",
+				"value" : "0"
+			},
+			"newproperty37" : 
+			{
+				"index" : 8,
+				"order" : 108,
+				"text" : "部分背景着色<br>Partial background coloring<br><br>",
+				"type" : "bool",
+				"value" : true
+			},
+			"newproperty38" : 
+			{
+				"index" : 14,
+				"order" : 114,
+				"text" : "武士刀动画 开/关<br>Katana animation on/off <br><br>",
+				"type" : "bool",
+				"value" : true
+			},
+			"newproperty4" : 
+			{
+				"index" : 9,
+				"order" : 109,
+				"text" : "自定义背景<br>(必须选择默认)<br>Customize the background<br><br>",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"newproperty5" : 
+			{
+				"color" : "#FF0000",
+				"index" : 1,
+				"order" : 101,
+				"text" : "<img src='https://m.qpic.cn/psc?/V12uhwIt3z28yp/bqQfVz5yrrGYSXMvKr.cqbDiE.KukmsItmGSEqzsPMASzzlZBBlgG3mW8u*r6SMbHE.HaDfBmEWWIBvlOepEv9FPCoAJWj7wI3Bh4teGSaA!/b&bo=HgEIAAAAAAACJxQ!&rf=viewer_4'><center><h3> -🔻动态制作🔻-</h3>",
+				"type" : "text",
+				"value" : ""
+			},
+			"newproperty6" : 
+			{
+				"index" : 16,
+				"order" : 116,
+				"text" : "图片自带烟雾<br>The picture comes with smoke<br><br>",
+				"type" : "bool",
+				"value" : true
+			},
+			"newproperty7" : 
+			{
+				"index" : 32,
+				"order" : 132,
+				"text" : "🔘武士刀音频跳动<br>Katana audio beating<br><br>",
+				"type" : "bool",
+				"value" : true
+			},
+			"newproperty8" : 
+			{
+				"index" : 18,
+				"order" : 118,
+				"text" : "武士刀火焰<br>Katana flames<br><br>",
+				"type" : "bool",
+				"value" : true
+			},
+			"newproperty9" : 
+			{
+				"index" : 17,
+				"order" : 117,
+				"text" : "鼠标轨迹（樱花）<br>Mouse Trail (Sakura)<br><br>",
+				"type" : "bool",
+				"value" : true
+			},
+			"qiusanlian" : 
+			{
+				"index" : 60,
+				"order" : 160,
+				"text" : "<h6>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(GIF出处：BiliBili-@略nd)",
+				"type" : "text",
+				"value" : ""
+			},
+			"rgb" : 
+			{
+				"index" : 25,
+				"order" : 125,
+				"text" : "时间颜色（ RGB ）（基础颜色不能是黑白灰）<br>color cannot black, white, gray<br><br>",
+				"type" : "bool",
+				"value" : false
+			},
+			"rgb1" : 
+			{
+				"fraction" : true,
+				"index" : 26,
+				"max" : 1,
+				"min" : 0,
+				"order" : 126,
+				"precision" : 2,
+				"step" : 0.1,
+				"text" : "时间颜色（RGB）变化速度<br>(RGB) speed of change<br><br>",
+				"type" : "slider",
+				"value" : 0.15
+			},
+			"schemecolor" : 
+			{
+				"index" : 0,
+				"order" : 100,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.18431 0.21569 0.33725"
+			},
+			"tupian" : 
+			{
+				"index" : 59,
+				"order" : 159,
+				"text" : "<h3>🔻🔻🔻求三连🔻🔻🔻</h3><h6><a href = 'https://space.bilibili.com/355133767'><img src='https://i0.hdslb.com/bfs/new_dyn/2a12235b2f4e17cae09b4ae2d57801eb3546602440493866.gif@1048w_!web-dynamic.webp'></a></a></center></h6>",
+				"type" : "text",
+				"value" : ""
+			},
+			"赞赏" : 
+			{
+				"index" : 64,
+				"order" : 164,
+				"text" : "如果喜欢可以支持下作者😽                     Like it? Support the author",
+				"type" : "group",
+				"value" : ""
+			},
+			"赞赏码" : 
+			{
+				"index" : 65,
+				"order" : 165,
+				"text" : "<img src='https://i0.hdslb.com/bfs/new_dyn/fd66644649751960b38699f03a7d26723546602440493866.png@572w_572h.webp'></a></center>",
+				"type" : "text",
+				"value" : ""
+			}
+		},
+		"supportsaudioprocessing" : true,
+		"supportsvideo" : true,
+		"supportsvideoflags" : 2
+	},
+	"preview" : "preview.gif",
+	"ratingsex" : "none",
+	"ratingviolence" : "none",
+	"tags" : [ "Anime" ],
+	"title" : "熠烛 御剑驭龙-红鸾樱落 高度自定义Red Warbler-Sakura falls （Highly customizable）",
+	"type" : "Scene",
+	"version" : 6,
+	"visibility" : "public",
+	"workshopid" : "3233141951",
+	"workshopurl" : "steam://url/CommunityFilePage/3233141951"
+}
